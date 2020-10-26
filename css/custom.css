@@ -16,3 +16,13 @@
 h1 {
     font-size: 60px;
 }
+
+.project-seperation{
+    border-right: 1px solid #fff;
+    height: 500px;
+}
+
+.black-background{
+    background-color: black;
+    color: white;
+}
