@@ -1,8 +1,17 @@
 .project{
     background: radial-gradient(white, #BDC4C2, #A2AAA4);
-    height: 500px;
 }
 
-#html-image{
+.html-image {
     max-height: 500px;
+}
+
+.auto-center-custom{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+h1 {
+    font-size: 60px;
 }
